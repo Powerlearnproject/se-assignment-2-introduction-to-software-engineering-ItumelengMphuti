@@ -13,7 +13,7 @@ A branch in Computer Science that involves developing, testing, and deploying co
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
 
-SDLC is a Software enginnering framework the focuses on structured phases and steps to manage the software development process.
+A SDLC is a Software enginnering framework the focuses on structured phases and steps to manage the software development process.
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 
